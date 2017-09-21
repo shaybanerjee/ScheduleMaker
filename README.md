@@ -8,6 +8,6 @@
     - Python <br> 
     - Django <br> 
     - Flask <br> 
-    - Waterloo Open Data API <br>  
+    - Waterloo Open Data API <br> <br> 
   
-  <p> The project is still being developed </p> <br>
+  <p> The project is still being developed. </p> <br>
