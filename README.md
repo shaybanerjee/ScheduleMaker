@@ -1,7 +1,7 @@
 <h1> ScheduleMaker </h1> 
 
-<p> Application that will allow students to select the courses they wish to study for the upcomming school term and view all the different permutations of schedules possible for the course. </p> <br> 
-<b> The project uses the following technologies: <b>
+<p> Application that will allow students to select the courses they wish to study for the upcomming school term and view all the different permutations of schedules possible for the courses. </p> <br>  
+<b> The project uses the following technologies: <b><br> 
     - HTML  <br> 
     - CSS <br> 
     - JavaScript <br>
